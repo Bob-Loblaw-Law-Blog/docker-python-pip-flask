@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pytest -x src/02_crowsnest
+pytest -v src/02_crowsnest
